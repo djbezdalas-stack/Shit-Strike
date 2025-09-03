@@ -1,0 +1,2 @@
+# Shit-Strike
+©Sasalnica Official.
