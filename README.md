@@ -1,2 +1,4 @@
 # Shit-Strike
-©Sasalnica Official.
+Auksinis Stikliukas™ Est. 2015
+Antanas Vladislavas
+Antanas "ciucikas" Gumbas
