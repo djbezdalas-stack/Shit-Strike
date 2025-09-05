@@ -1,0 +1,4 @@
+L 08/15/2025 - 14:05:01: Start of error session.
+L 08/15/2025 - 14:05:01: Info (map "kz_longjumps2") (file "addons/amxmodx/logs/error_20250815.log")
+L 08/15/2025 - 14:05:01: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/15/2025 - 14:05:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

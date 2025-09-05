@@ -1,0 +1,4 @@
+L 08/06/2025 - 18:27:26: Start of error session.
+L 08/06/2025 - 18:27:26: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20250806.log")
+L 08/06/2025 - 18:27:26: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/06/2025 - 18:27:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

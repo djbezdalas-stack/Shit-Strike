@@ -1,0 +1,12 @@
+L 05/23/2025 - 22:19:19: Start of error session.
+L 05/23/2025 - 22:19:19: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250523.log")
+L 05/23/2025 - 22:19:19: [AMXX] Plugin file open error (plugin "uq_jumpstats.amxx")
+L 05/23/2025 - 22:19:19: [AMXX] Plugin file open error (plugin "uq_jumpstats_tops.amxx")
+L 05/23/2025 - 22:22:48: Start of error session.
+L 05/23/2025 - 22:22:48: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250523.log")
+L 05/23/2025 - 22:22:48: [AMXX] Plugin file open error (plugin "uq_jumpstats.amxx")
+L 05/23/2025 - 22:22:48: [AMXX] Plugin file open error (plugin "uq_jumpstats_tops.amxx")
+L 05/23/2025 - 22:27:26: Start of error session.
+L 05/23/2025 - 22:27:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250523.log")
+L 05/23/2025 - 22:27:26: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 05/23/2025 - 22:27:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

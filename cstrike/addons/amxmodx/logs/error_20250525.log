@@ -1,0 +1,4 @@
+L 05/25/2025 - 14:32:43: Start of error session.
+L 05/25/2025 - 14:32:43: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250525.log")
+L 05/25/2025 - 14:32:43: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 05/25/2025 - 14:32:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

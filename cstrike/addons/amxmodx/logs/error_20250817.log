@@ -1,0 +1,24 @@
+L 08/17/2025 - 01:08:38: Start of error session.
+L 08/17/2025 - 01:08:38: Info (map "kz_longjumps2") (file "addons/amxmodx/logs/error_20250817.log")
+L 08/17/2025 - 01:08:38: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/17/2025 - 01:08:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/17/2025 - 18:07:06: Start of error session.
+L 08/17/2025 - 18:07:06: Info (map "cs_militia") (file "addons/amxmodx/logs/error_20250817.log")
+L 08/17/2025 - 18:07:06: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/17/2025 - 18:07:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/17/2025 - 20:32:05: Start of error session.
+L 08/17/2025 - 20:32:05: Info (map "kz_longjumps2") (file "addons/amxmodx/logs/error_20250817.log")
+L 08/17/2025 - 20:32:05: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/17/2025 - 20:32:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/17/2025 - 20:36:44: Start of error session.
+L 08/17/2025 - 20:36:44: Info (map "kz_longjumps2") (file "addons/amxmodx/logs/error_20250817.log")
+L 08/17/2025 - 20:36:44: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/17/2025 - 20:36:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/17/2025 - 20:45:18: Start of error session.
+L 08/17/2025 - 20:45:18: Info (map "cs_siege") (file "addons/amxmodx/logs/error_20250817.log")
+L 08/17/2025 - 20:45:18: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/17/2025 - 20:45:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/17/2025 - 20:50:56: Start of error session.
+L 08/17/2025 - 20:50:56: Info (map "kz_longjumps2") (file "addons/amxmodx/logs/error_20250817.log")
+L 08/17/2025 - 20:50:56: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 08/17/2025 - 20:50:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
