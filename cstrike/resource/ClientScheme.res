@@ -18,8 +18,8 @@ Scheme
 		"ButtonFocusBorder" "64 48 0 255"
 		"ControlBG" "0 0 0 0"
 		"ButtonBG" "0 0 0 64"
-		"ControlDarkBG" "0 0 0 128"
-		"WindowBG" "0 0 0 150"
+		"ControlDarkBG" "0 0 0 0"
+		"WindowBG" "0 0 0 0"
 		"SelectionBG" "0 0 0 120"
 		"SelectionBG2" "0 0 0 85"
 		"ListBG" "0 255 0 150"
@@ -50,8 +50,8 @@ Scheme
 		"team2" "153 204 255 255"
 		"StatisticsText" "255 255 255 255"
 		"SelectedStatisticsText" "128 128 128 255"
-		"BuyPresetBG" "0 0 0 64"
-		"BuyPresetAltBG" "0 0 0 128"
+		"BuyPresetBG" "0 0 0 0"
+		"BuyPresetAltBG" "0 0 0 0"
 		"MapDescriptionText" "255 176 0 255"
 	}
 	BaseSettings
