@@ -22,3 +22,47 @@ L 09/06/2025 - 00:38:43: Start of error session.
 L 09/06/2025 - 00:38:43: Info (map "cs_italy") (file "addons/amxmodx/logs/error_20250906.log")
 L 09/06/2025 - 00:38:43: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
 L 09/06/2025 - 00:38:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:11:56: Start of error session.
+L 09/06/2025 - 22:11:56: Info (map "de_airstrip") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:11:56: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:11:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:13:57: Start of error session.
+L 09/06/2025 - 22:13:57: Info (map "de_nuke") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:13:57: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:13:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:20:26: Start of error session.
+L 09/06/2025 - 22:20:26: Info (map "de_nuke") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:20:26: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:20:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:22:02: Start of error session.
+L 09/06/2025 - 22:22:02: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:22:02: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:22:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:23:01: Start of error session.
+L 09/06/2025 - 22:23:01: Info (map "cs_siege") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:23:01: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:23:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:23:16: Start of error session.
+L 09/06/2025 - 22:23:16: Info (map "de_vertigo") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:23:16: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:23:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:25:37: Start of error session.
+L 09/06/2025 - 22:25:37: Info (map "cs_estate") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:25:37: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:25:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:31:37: Start of error session.
+L 09/06/2025 - 22:31:37: Info (map "de_piranesi") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:31:37: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:31:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:41:59: Start of error session.
+L 09/06/2025 - 22:41:59: Info (map "de_piranesi") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:41:59: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:41:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:45:56: Start of error session.
+L 09/06/2025 - 22:45:56: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:45:56: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:45:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/06/2025 - 22:49:46: Start of error session.
+L 09/06/2025 - 22:49:46: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20250906.log")
+L 09/06/2025 - 22:49:46: [AMXX] Run time error 4 (plugin "uq_jumpstats.amxx") - debug not enabled!
+L 09/06/2025 - 22:49:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
